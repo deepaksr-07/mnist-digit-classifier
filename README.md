@@ -89,11 +89,10 @@ This project implements a **Fully Connected Deep Neural Network (DNN)** to class
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-2.x-red?logo=keras)
-![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-blue)
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.21.0-orange?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-3.14.0-red?logo=keras)
+![NumPy](https://img.shields.io/badge/NumPy-2.4.4-013243?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.7-blue)
 ---
 
 ## How to Run
