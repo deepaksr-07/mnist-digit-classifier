@@ -1,5 +1,4 @@
-# mnist-digit-classifier
-MNIST handwritten digit recognition using a fully connected Deep Neural Network (DNN) built with TensorFlow &amp; Keras — achieves ~98% test accuracy
+
 # MNIST Handwritten Digit Recognition
 
 > Classifying handwritten digits (0–9) using a Deep Neural Network built with TensorFlow & Keras — achieves **~98% test accuracy**
