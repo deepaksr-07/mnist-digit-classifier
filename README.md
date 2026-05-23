@@ -128,7 +128,6 @@ mnist-digit-classifier/
 ## Future Improvements
 
 - [ ] Implement a CNN for higher accuracy (99%+)
-- [ ] Add Confusion Matrix and per-class accuracy analysis
 - [ ] Deploy using Streamlit or Flask
 - [ ] Experiment with Batch Normalization
 
